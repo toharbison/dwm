@@ -16,8 +16,8 @@ install=dwm.install
 source=(http://dl.suckless.org/dwm/dwm-$pkgver.tar.gz
 	config.h
 	dwm.desktop)
-sha256sums=('97902e2e007aaeaa3c6e3bed1f81785b817b7413947f1db1d3b62b8da4cd110e'
-            'ce156c4ff6be6f664f5c1eb41e8ae8228c15d0282410be3ecdd58598bb8867d2'
+sha256sums=('8bb9aaead0fe6b4c3f8cdd55da42a6e09150f8acabb07444ceb1db5de3934009'  
+	    '5ea893217355a6e0aae007bb49a78b2060b06958504a8e740a3dea9488141fd0'
             'bc36426772e1471d6dd8c8aed91f288e16949e3463a9933fee6390ee0ccd3f81')
 
 prepare() {
